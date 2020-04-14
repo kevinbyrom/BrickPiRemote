@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrickPiRemote", "BrickPiRemote.csproj", "{FF2B10FB-F24D-4A61-BD4C-8CDD56811D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF2B10FB-F24D-4A61-BD4C-8CDD56811D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2B10FB-F24D-4A61-BD4C-8CDD56811D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2B10FB-F24D-4A61-BD4C-8CDD56811D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2B10FB-F24D-4A61-BD4C-8CDD56811D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
