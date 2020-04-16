@@ -64,8 +64,7 @@ namespace BrickPiRemote
             float right_y = padState.ThumbSticks.Right.Y;
             bool back = padState.IsButtonDown(Buttons.Back);
 
-            return String.Format("{0:0.0},{1:0.0},{2:0.0},{3:0.0},{4}", left_x, left_y, right_x, right_y, back.ToString());
-            
+            return String.Format("{0:0.0},{1:0.0},{2:0.0},{3:0.0},{4}", left_x, left_y, right_x, right_y, back.ToString());       
         }
 
         private void SendGamepadData(string msg)
